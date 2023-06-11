@@ -1,0 +1,46 @@
+* {
+	margin:0;
+	padding:0;
+	color:white;
+}
+
+body {
+	background-color:#1b1d2e;
+}
+
+.container {
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.siren {
+	
+	width:20vh;
+	height:9vh;
+	margin-top:15rem;
+	background-color:red;
+	border-bottom:0.5em solid #454a46;
+	
+
+}
+
+#sr1 {
+	border-top-left-radius:8rem;
+	border-bottom-left-radius:5rem;
+	
+}
+
+#sr2 {
+	background-color:#dfe6e0;
+}
+
+#sr3 {
+	border-top-right-radius:8rem;
+	background-color:blue;
+	border-bottom-right-radius:5rem;
+}
+
+
+
